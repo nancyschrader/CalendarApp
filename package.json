@@ -32,6 +32,15 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ],
+  
+  
+    "dependencies": {
+      "@rails/webpacker": "4.2.2",
+      "react_ujs": "^2.6.1"
+    },
+    "devDependencies": {
+      "webpack-dev-server": "^3.11.0"
+    }
   }
 }
